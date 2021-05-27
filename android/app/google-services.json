@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "805390378696",
+    "project_id": "rock-logic-311715",
+    "storage_bucket": "rock-logic-311715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805390378696:android:9fef0a524952a7524327fd",
+        "android_client_info": {
+          "package_name": "com.example.velo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805390378696-ohojiet8pc4mcvfvo5p11fher7hu13nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.velo2",
+            "certificate_hash": "48cf66dc9fa5f3672f625002846acabda186ec4c"
+          }
+        },
+        {
+          "client_id": "805390378696-ajadq30eb7cf1po7s47jb8hmamjqogh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_R3gap40z-KDYdRqrWfZ0j2NwkIXXr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805390378696-ajadq30eb7cf1po7s47jb8hmamjqogh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
